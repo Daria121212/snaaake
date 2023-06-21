@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(117, 87, 146);
+    font-size: 100px;
+}
+
+.h2 {
+    color: rgb(59, 22, 146);
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 15%;
+    font-size: 50px;
+    background: rgb(181, 171, 190);
+    padding: 5px;
+}
+.par {
+    font-style: oblique;
+    text-align: center;
+    font-size: 24px;
+    color: rgb(24, 236, 17);
+}
